@@ -1,0 +1,15 @@
+////////////////////////////////////////////////////////////////////////////////
+// Page Styling
+// --------------------
+// This file combines all partials into one main style sheet, to be loaded on 
+// all pages.
+////////////////////////////////////////////////////////////////////////////////
+
+@import "base";     // Imports default variables and mixins.
+@import "defaults"; // Establishes general rules and browser resets.
+@import "layout";   // Defines positioning of major page elements.
+@import "custom";   // Defines custom styles.
+@import "mobile";   // Defines styles for mobile browsers.
+@import "print";    // Defines styles for printing.
+@import "ie7";      // Fiexes to support IE7.
+@import "ie6";      // Fiexes to support IE6.

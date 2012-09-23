@@ -1,0 +1,5 @@
+Things to do for new site:
+
+
+* install Boilerplate base them
+* customize admin theme to brand
